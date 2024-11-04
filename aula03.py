@@ -105,3 +105,19 @@
 
 # print(f" a media foi: {media}")
 
+
+
+# ATIVIDADE 5 
+
+# n = int(input("Digite o tanto de numeros: "))
+# c = 0
+
+# while c < n: 
+#   c += 1 
+#   numero = int(input("Digite um numero: "))
+#   maiornumero = 0
+#   if numero > maiornumero: 
+#     maiornumero = numero
+
+
+# print(maiornumero)
